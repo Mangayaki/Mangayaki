@@ -6,52 +6,88 @@
 ##
 <div align="center"> 
  <h2><i>Repositórios</i></h2>
+ <br><br>
  <a href="https://github.com/Mangayaki/front-end">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end"  />
  </a>
  <a href="https://github.com/Mangayaki/front-end">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end"  />
  </a>
+ <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end" />
 
- <br><br><br>
+ <br><br>
 ##
  <h2><i>Informações Gerais do Projeto</i></h2>
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangayaki&theme=midnight-purple&show_icons=true&hide=stars,contribs)]()
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangayaki&layout=compact&theme=midnight-purple)]()
+ <br><br>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangayaki&theme=midnight-purple&show_icons=true&hide_border=true&hide=stars,contribs)]()
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangayaki&layout=compact&hide_border=true&theme=midnight-purple)]()
 
- <br><br><br>
+ <br><br>
  ##
  <h2><i>Colaboradores</i></h2>
-  <div>
-   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
-   <br><br><br><br><br><br><br><br>
-   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
+  <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4"/>
+ <h3 align="left">Carlos Eduardo</h3>
+   <a align="left" href="https://github.com/tiagosts99"/>
+    <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+ <br><br><br><br>
+  <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
+   <h3 align="left">Ester Amorim</h3>
+   <a align="left" href="https://github.com/EsterAmorim" />
+      <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   
+ <br><br><br><br>
 
-   <br><br><br><br><br><br><br><br>
-  
-   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
+ <img align="left" widht="96px" height="96px" src="https://avatars.githubusercontent.com/u/119907550?v=4" />
+   <h3 align="left">Matheus Henrique</h3>
+   <a align="left" href="https://github.com/MattyGaryuu" />
+      <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 
-   <br><br><br><br><br><br><br><br>
+ <br><br><br><br>
 
-   <img align="left" width="20%" height="96px" src="https://avatars.githubusercontent.com/u/69881607?v=4"/>
+ <img align="left" width="96px" height="96px" src="https://avatars.githubusercontent.com/u/69881607?v=4" />
+   <h3 align="left">Renan Cruz</h3>
+   <a align="left" href="https://github.com/RenanCruz7" />
+      <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 
-   <br><br><br><br><br><br><br><br>
-
-   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
-
-   <br><br><br><br><br><br><br><br>
-
-   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
- </div>
+ <br><br><br><br>
+<img align="left" width="96px" height="96px" src="https://avatars.githubusercontent.com/u/112272011?v=4" />
+   <h3 align="left">Tiago Santos</h3>
+   <a align="left" href="https://github.com/tiagosts99" />
+      <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+ <br><br><br><br>
+<img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
+   <h3 align="left">Vinicius Ventura</h3>
+   <a align="left" href="https://github.com/EsterAmorim" />
+      <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+   <a align="left" href="https://linkedin.com/in/amorim-"/>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
  
 </div>
 
-
-
-
-
-
+<br><br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b369f&height=120&section=footer"/>
