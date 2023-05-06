@@ -63,7 +63,7 @@
    <a align="left" href="https://github.com/RenanCruz7" />
       <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
    </a>
-   <a align="left" href="https://linkedin.com/in/amorim-"/>
+   <a align="left" href="https://linkedin.com/in/renancruz7"/>
      <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 
@@ -73,7 +73,7 @@
    <a align="left" href="https://github.com/tiagosts99" />
       <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
    </a>
-   <a align="left" href="https://linkedin.com/in/amorim-"/>
+   <a align="left" href="https://linkedin.com/in/tiago-santos-973218156"/>
      <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
  <br><br><br><br>
@@ -82,7 +82,7 @@
    <a align="left" href="https://github.com/EsterAmorim" />
       <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
    </a>
-   <a align="left" href="https://linkedin.com/in/amorim-"/>
+   <a align="left" href="https://linkedin.com/in/vinicius-luiz-ventura-ribeiro-521202232"/>
      <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
  
