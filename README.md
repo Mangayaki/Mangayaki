@@ -11,8 +11,8 @@
 
 <h2 align='center'><i>Informações Gerais do Projeto</i></h2>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangayaki&theme=midnight-purple&show_icons=true)]()
-‎ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangayaki&layout=compact&theme=midnight-purple)](https://github.com/Mangayaki/front-end)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangayaki&theme=midnight-purple&show_icons=true&hide=stars,contribs)]()
+‎ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangayaki&layout=compact&theme=midnight-purple)]()
 
 
 
