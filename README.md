@@ -18,16 +18,20 @@
 
  <br><br>
 ##
+ 
+ 
  <h2><i>Informações Gerais do Projeto</i></h2>
  <br><br>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangayaki&theme=midnight-purple&show_icons=true&hide_border=true&hide=stars,contribs)]()
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangayaki&layout=compact&hide_border=true&theme=midnight-purple)]()
-
+  
+  
+ 
  <br><br>
  ##
  <h2><i>Colaboradores</i></h2>
-  <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4"/>
+  <img align="left" src=""/>
  <h3 align="left">Carlos Eduardo</h3>
    <a align="left" href="https://github.com/tiagosts99"/>
     <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
@@ -77,7 +81,7 @@
      <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
  <br><br><br><br>
-<img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
+<img align="left" src="" />
    <h3 align="left">Vinicius Ventura</h3>
    <a align="left" href="https://github.com/EsterAmorim" />
       <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
