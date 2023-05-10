@@ -14,7 +14,8 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end"  />
  </a>
  <br><br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end" />
+  <a href="https://github.com/Mangayaki/UML">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=UML" />
 
  <br><br>
 ##
