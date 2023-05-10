@@ -15,7 +15,7 @@
  </a>
  <br><br>
   <a href="https://github.com/Mangayaki/UML">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=UML" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=uml" />
 
  <br><br>
 ##
