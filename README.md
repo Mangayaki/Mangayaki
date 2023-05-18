@@ -11,7 +11,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=front-end"  />
  </a>
  <a href="https://github.com/Mangayaki/back-end">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=back-end"  />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=back-end"  />
  </a>
  <br><br>
  <a href="https://github.com/Mangayaki/UML">
