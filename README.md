@@ -33,7 +33,7 @@
  <h2><i>Colaboradores</i></h2>
   <img align="left" width="96px" height"96px" src="https://avatars.githubusercontent.com/u/132717634?v=4"/>
  <h3 align="left">Carlos Eduardo</h3>
-   <a align="left"/>
+   <a align="left" href="https://github.com/hr1st"/>
     <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
    </a>
    <a align="left"/>
