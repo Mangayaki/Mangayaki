@@ -17,7 +17,6 @@
  <a href="https://github.com/Mangayaki/UML">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mangayaki&show_icons=true&cache_seconds&theme=midnight-purple&repo=uml" />
  <br><br>
-##
  
  
  <h2><i>Informações Gerais do Projeto</i></h2>
@@ -29,15 +28,11 @@
   
  
  <br><br>
- ##
  <h2><i>Colaboradores</i></h2>
-  <img align="left" width="96px" height"96px" src="https://avatars.githubusercontent.com/u/132717634?v=4"/>
+  <img align="left" width="96px" height"96px" src="https://avatars.githubusercontent.com/u/106626959?v=4"/>
  <h3 align="left">Carlos Eduardo</h3>
    <a align="left" href="https://github.com/hr1st"/>
     <img align="left" src="https://img.shields.io/badge/GitHub-4b369f?style=for-the-badge&logo=github&logoColor=white" />
-   </a>
-   <a align="left"/>
-     <img align="left" src="https://img.shields.io/badge/LinkedIn-4b369f?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
  <br><br><br><br>
   <img align="left" src="https://avatars.githubusercontent.com/u/62123078?s=96&v=4" />
